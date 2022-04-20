@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<!-- Please use the game's name for issue Title -->
+<!-- Please use the game's name followed by the game id reported by the loader in parhentesis for issue Title. Eg. AM2R [AM2R] -->
 
 NOTE: IF YOU'RE SUBMITTING A REPORT FOR A GAMING HAVING ISSUES, PLEASE PERFORM A RUN WITH DEBUG MODE ON AND POST THE RELATED LOG FILE HERE!
 
