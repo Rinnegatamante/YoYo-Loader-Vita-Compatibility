@@ -25,7 +25,7 @@ NOTE: IF YOU'RE SUBMITTING A REPORT FOR A GAMING HAVING ISSUES, PLEASE PERFORM A
 ![](https://?)
 
 # Recommended labels
-<!-- See https://github.com/YoYo-Loader-Vita-Compatibility/compatibility/labels -->
+<!-- See https://github.com/Rinnegatamante/YoYo-Loader-Vita-Compatibility/labels -->
 - A?
 - B?
 - C?
